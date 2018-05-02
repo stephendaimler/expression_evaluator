@@ -31,12 +31,12 @@ followed by two expressions.
 number like -1.
 
 Here are examples of valid operator expressions:
-+ 1 5 evaluates to 6
-- 7 11 evaluates to -4
-+ 3 - 8 9 evaluates to 2
+'+ 1 5' evaluates to 6
+'- 7 11' evaluates to -4
+'+ 3 - 8 9' evaluates to 2
 
 An invalid operator expression would be:
-- 5 + 2
+'- 5 + 2'
 because the syntax is incorrect:  <Operator> <Expression> <Operator>
 <Expression>
 
